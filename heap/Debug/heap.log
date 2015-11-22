@@ -1,0 +1,31 @@
+﻿生成启动时间为 2015/9/5 14:51:59。
+     1>项目“D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\heap\heap.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\heap.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 9.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(17): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“heaptype”
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(32): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“heaptype”
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(34): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(38): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(52): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(75): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“heaptype”
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(109): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\heapbyjwill.h(119): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010workplace\demo_byjwill\sampleset1\heap\heap\test.cpp(12): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“heaptype”
+       Link:
+         C:\Program Files\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\heap.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.exe 或上一个增量链接没有生成它；正在执行完全链接
+         heap.vcxproj -> D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\Debug\heap.exe;#1" /manifest Debug\heap.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\heap.unsuccessfulbuild”。
+         正在对“Debug\heap.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\vs2010WorkPlace\demo_byJwill\sampleSet1\heap\heap\heap.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.79
